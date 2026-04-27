@@ -17,4 +17,4 @@ def contacts(request):
         'phone': '+7 (999) 123-45-67',
         'address': 'г. Москва, ул. Примерная, д. 123',
     }
-    return render(request, 'catalog/contacts.html', context)\
+    return render(request, 'catalog/contacts.html', context)

@@ -101,3 +101,7 @@ temp/
 ehthumbs.db
 Thumbs.db
 desktop.ini
+
+Django==4.2.7
+psycopg2-binary==2.9.9
+pyhton-dotenv==1.0.0
