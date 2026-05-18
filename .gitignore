@@ -1,0 +1,19 @@
+# Секретные переменные окружения
+.env
+
+# Локальная база данных SQLite
+db.sqlite3
+db.sqlite3-journal
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Настройки среды разработки PyCharm
+.idea/
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
