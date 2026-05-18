@@ -1,0 +1,67 @@
+[
+{
+  "model": "catalog.product",
+  "pk": 6,
+  "fields": {
+    "name": "Смартфон Xiaomi 13",
+    "description": "8/256GB, AMOLED экран",
+    "image": "",
+    "category": 4,
+    "price": "39990.00",
+    "created_at": "2026-04-27T08:43:52.815Z",
+    "updated_at": "2026-04-27T08:43:52.815Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 7,
+  "fields": {
+    "name": "Ноутбук Apple MacBook Air",
+    "description": "M1, 8/256GB",
+    "image": "",
+    "category": 4,
+    "price": "89990.00",
+    "created_at": "2026-04-27T08:43:52.817Z",
+    "updated_at": "2026-04-27T08:43:52.817Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 8,
+  "fields": {
+    "name": "Джинсы классические",
+    "description": "Синие, прямой крой",
+    "image": "",
+    "category": 5,
+    "price": "3490.00",
+    "created_at": "2026-04-27T08:43:52.819Z",
+    "updated_at": "2026-04-27T08:43:52.819Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 9,
+  "fields": {
+    "name": "Футболка хлопковая",
+    "description": "Белая, размер M",
+    "image": "",
+    "category": 5,
+    "price": "1290.00",
+    "created_at": "2026-04-27T08:43:52.820Z",
+    "updated_at": "2026-04-27T08:43:52.820Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 10,
+  "fields": {
+    "name": "Python. Полное руководство",
+    "description": "Дэвид Бизли",
+    "image": "",
+    "category": 6,
+    "price": "1890.00",
+    "created_at": "2026-04-27T08:43:52.822Z",
+    "updated_at": "2026-04-27T08:43:52.822Z"
+  }
+}
+]
